@@ -3,8 +3,7 @@
 
 cff-version: 1.2.0
 title: >-
-  Python Aspen Plus Connected Model for the Calculation of
-  Equipment Costs
+  Aspen_Plus_Python-Connection-Example
 message: >-
   If you use this software, please cite it using the
   metadata from this file.
@@ -19,14 +18,11 @@ authors:
       Systeme Magdeburg
     orcid: 'https://orcid.org/0000-0001-5673-8221'
 repository-code: >-
-  https://github.com/A-JMinor/Python-Aspen-Plus-Connected-Model-for-the-Calculation-of-Equipment-Costs
+  https://github.com/A-JMinor/Aspen_Plus_Python-Connection-Example
 abstract: >-
-  Python model for the calculation of equipment costs (e.g.
-  for the CSTR reactor, heat exchangers, RADFRAC
-  distillation columns, etc.) that were simulated in Aspen
-  Plus.
+  
 keywords:
   - python
   - aspen plus
-  - purchase costs
+  - connection
 date-released: '2023-04-18'
